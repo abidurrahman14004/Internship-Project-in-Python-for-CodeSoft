@@ -1,7 +1,5 @@
   <h1>Python Tkinter Projects</h1>
 
-  <!-- Repo connectivity test: 2026-07-09 -->
-
    This repository contains a collection of Python projects developed using the Tkinter library. Each project demonstrates different aspects of Python programming and GUI development with Tkinter. Below are the descriptions of each project included in this repository.</p>
 
   <h2>Projects</h2>
